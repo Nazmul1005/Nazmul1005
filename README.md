@@ -5,5 +5,3 @@
 ## Contact
 - Email: nazmulislam20303@gmail.com
 - Website: https://nazmul1005.github.io/Nazmul_portfolio
-- LinkedIn: https://www.linkedin.com/in/your-linkedin
-- Twitter: https://twitter.com/yourhandle (optional)

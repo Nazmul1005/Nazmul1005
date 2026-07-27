@@ -10,9 +10,9 @@
 <br/>
 
 <!-- Academic Badges -->
-<img src="https://img.shields.io/badge/B.Tech-Computer%20Science-4B0082?style=flat-square&labelColor=1a0033" alt="degree" />
-<img src="https://img.shields.io/badge/CGPA-9.2%2F10-8A2BE2?style=flat-square&labelColor=1a0033" alt="cgpa" />
-<img src="https://img.shields.io/badge/📍-India-6A0DAD?style=flat-square&labelColor=1a0033" alt="location" />
+<img src="https://img.shields.io/badge/Computer%20Science-Student-4B0082?style=flat-square&labelColor=1a0033" alt="degree" />
+<img src="https://img.shields.io/badge/Full%20Stack-%2B%20AI%2FML-8A2BE2?style=flat-square&labelColor=1a0033" alt="focus" />
+<img src="https://img.shields.io/badge/📍-Bangladesh-6A0DAD?style=flat-square&labelColor=1a0033" alt="location" />
 
 <br/><br/>
 
@@ -49,14 +49,14 @@
 
 <img align="right" width="38%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-purple.svg" alt="snake preview" />
 
-I am a **Software Engineer** and **AI/ML practitioner** focused on designing and shipping enterprise-grade systems that scale. My work sits at the intersection of **robust backend architecture**, **applied machine learning**, and **polished full stack product engineering**.
+I am a **Computer Science student**, **full stack developer**, and **AI/ML enthusiast** who enjoys building complete, real-world products end to end. My work spans **real-time web platforms**, **database-driven systems**, and **machine learning applications** — from model training all the way to a polished user interface.
 
-- Deep experience building **distributed, high-throughput services** with an emphasis on reliability, observability, and clean architecture.
-- Strong grounding in **AI/ML** — from data pipelines and model training to production inference and MLOps.
-- Full stack fluency across **modern frontend frameworks** and **cloud-native backends**.
-- A **product engineering mindset**: I care about user impact, performance budgets, and maintainable code as much as the tech underneath.
+- Built a **real-time virtual classroom** with WebRTC video, live collaboration, and AI-powered attentiveness tracking.
+- Shipped **full stack ML products** — a cancer risk simulator (XGBoost + FastAPI + React) and a UEFA Champions League winner predictor.
+- Engineered a **multi-role agricultural platform** with 30+ database tables, RBAC, secure payments, and a unified commission engine.
+- I care about **clean architecture, security, and user experience** as much as the tech underneath.
 
-**🤝 Open To:** Software Engineering roles · AI/ML Engineering roles · Open Source Collaboration · Technical Consulting
+**🤝 Open To:** Software Engineering roles · AI/ML Engineering roles · Internships · Open Source Collaboration
 
 ---
 
@@ -67,19 +67,19 @@ I am a **Software Engineer** and **AI/ML practitioner** focused on designing and
 
 **Languages**
 
-![My Skills](https://skillicons.dev/icons?i=python,typescript,javascript,java,cpp,go,rust,c&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=python,javascript,java,php,cpp,c,html,css&theme=dark)
 
 **Frontend**
 
-![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,html,css,vite,vue&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=react,vite,tailwind,html,css,js&theme=dark)
 
 **Backend & Databases**
 
-![My Skills](https://skillicons.dev/icons?i=nodejs,express,fastapi,django,postgres,mongodb,redis,graphql&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=nodejs,express,fastapi,php,mysql,postgres&theme=dark)
 
-**Cloud, DevOps & Tooling**
+**AI/ML, Cloud, DevOps & Tooling**
 
-![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,githubactions,git,linux,grafana&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=tensorflow,sklearn,docker,git,github,vercel,linux,vscode&theme=dark)
 
 </div>
 
@@ -90,12 +90,12 @@ I am a **Software Engineer** and **AI/ML practitioner** focused on designing and
 
 | Domain | Proficiency | Details |
 | :--- | :---: | :--- |
-| **Machine Learning** | ⭐⭐⭐⭐⭐ | Supervised/unsupervised learning, feature engineering, model evaluation, hyperparameter tuning |
-| **Deep Learning** | ⭐⭐⭐⭐⭐ | CNNs, RNNs, Transformers, attention mechanisms, transfer learning |
-| **NLP & LLMs** | ⭐⭐⭐⭐☆ | Fine-tuning, RAG pipelines, embeddings, prompt engineering, vector search |
-| **Computer Vision** | ⭐⭐⭐⭐☆ | Object detection, segmentation, image classification, OpenCV pipelines |
-| **MLOps** | ⭐⭐⭐⭐☆ | Model serving, CI/CD for ML, experiment tracking, monitoring & drift detection |
-| **Data Engineering** | ⭐⭐⭐⭐☆ | ETL/ELT pipelines, distributed processing, streaming, feature stores |
+| **Machine Learning** | ⭐⭐⭐⭐☆ | Feature engineering, classification, ensemble methods (Random Forest, KNN, XGBoost), model evaluation |
+| **Gradient Boosting** | ⭐⭐⭐⭐☆ | XGBoost classifiers, hyperparameter tuning, ROC-AUC optimization (0.94+ on real medical data) |
+| **Model Serving** | ⭐⭐⭐⭐☆ | Serving trained models via FastAPI, real-time inference, serialized model deployment |
+| **Computer Vision** | ⭐⭐⭐☆☆ | Face landmark detection & attentiveness tracking with MediaPipe FaceLandmarker |
+| **LLM Integration** | ⭐⭐⭐☆☆ | Google Gemini 1.5 Flash integration, streaming responses, prompt design for teaching assistants |
+| **Data Analysis** | ⭐⭐⭐⭐☆ | Pandas, NumPy, scikit-learn, Matplotlib/Seaborn, Jupyter-based experimentation |
 
 ---
 
@@ -103,62 +103,96 @@ I am a **Software Engineer** and **AI/ML practitioner** focused on designing and
 ## 🚀 Featured Projects
 
 <details>
-<summary><b>⚡ Distributed AI Inference Platform</b></summary>
+<summary><b>🎓 Ultimate Classroom — Real-Time Virtual Classroom with AI</b></summary>
 
 <br/>
 
-A production-grade platform for serving ML models at scale with autoscaling, request batching, and real-time observability.
+A feature-rich, real-time virtual classroom platform with live video, collaborative tools, and AI-powered teaching support.
 
 | Aspect | Details |
 | :--- | :--- |
-| **Stack** | Python · FastAPI · PyTorch · Redis · Kubernetes · AWS |
-| **Scale** | 10K+ requests/sec, multi-region deployment |
-| **Performance** | p99 latency < 80ms with dynamic batching |
-| **Security** | JWT auth, rate limiting, encrypted model artifacts |
-| **Impact** | Reduced inference cost by 40% and cold-start latency by 65% |
-| **Repository** | [View Code →](https://github.com/nazmul1005/ai-inference-platform) |
+| **Stack** | React · Vite · Node.js · Express · Socket.io · PeerJS (WebRTC) · Tailwind CSS · Google Gemini |
+| **Real-Time** | Peer-to-peer video/audio, screen sharing, live chat & collaborative whiteboard |
+| **AI** | MediaPipe FaceLandmarker attentiveness tracking + Gemini 1.5 Flash teaching assistant (streaming) |
+| **Features** | Host controls, unique room IDs, persistent room data, featured participant view |
+| **Impact** | ⭐ 2 stars — most-starred repository |
+| **Repository** | [View Code →](https://github.com/Nazmul1005/Ultimate-Classroom) |
 
-Engineered an end-to-end inference service with a pluggable model registry, GPU-aware scheduling, and canary rollout support. Built horizontal autoscaling driven by custom queue-depth metrics and integrated full tracing via OpenTelemetry.
+Built end-to-end: self-hosted PeerJS signaling for WebRTC negotiation, Socket.io-synced chat and whiteboard, browser-side face-landmark analysis that flags absent/sleeping/looking-away states after a 10s threshold, and a host-exclusive AI assistant that streams explanations, quizzes, and summaries on demand.
 
 </details>
 
 <details>
-<summary><b>🧩 Enterprise SaaS Analytics Suite</b></summary>
+<summary><b>🩺 Cancer Risk Simulator — AI-Powered Risk Prediction</b></summary>
 
 <br/>
 
-A multi-tenant analytics platform delivering real-time dashboards and self-serve reporting for enterprise customers.
+A full-stack machine learning app that predicts cancer risk in real time from 8 key health factors.
 
 | Aspect | Details |
 | :--- | :--- |
-| **Stack** | TypeScript · Next.js · Node.js · PostgreSQL · GraphQL · Docker |
-| **Scale** | 500+ tenants, billions of events ingested monthly |
-| **Performance** | Sub-second dashboard queries via materialized views & caching |
-| **Security** | Row-level security, RBAC, SOC2-aligned audit logging |
-| **Impact** | Cut reporting turnaround from hours to seconds |
-| **Repository** | [View Code →](https://github.com/nazmul1005/saas-analytics) |
+| **Stack** | Python · FastAPI · XGBoost · scikit-learn · React · Vite · Tailwind CSS · Recharts |
+| **Model** | XGBoost classifier trained on 1,500 real patient records |
+| **Performance** | 93.67% accuracy · ROC-AUC 0.9412 · ~0.94 recall |
+| **Features** | Real-time debounced predictions, current-vs-optimal risk comparison, interactive charts |
+| **Live Demo** | [cancer-risk-simulator.vercel.app](https://cancer-risk-simulator.vercel.app/) |
+| **Repository** | [View Code →](https://github.com/Nazmul1005/Cancer_Risk_Simulator) |
 
-Designed a tenant-isolated data model with streaming ingestion and incremental aggregation. Delivered a component-driven frontend with server-side rendering and a type-safe GraphQL API layer.
+Trained and serialized an XGBoost model served through a FastAPI backend with automatic API docs, paired with a glassmorphism React UI. Predictions update live as users adjust health metrics, with transparent feature importance and color-coded risk categories.
 
 </details>
 
 <details>
-<summary><b>🔍 Semantic Search & RAG Engine</b></summary>
+<summary><b>🌱 KrishiDisha — Agricultural Intelligence Platform</b></summary>
 
 <br/>
 
-A retrieval-augmented generation engine for grounded, citation-backed answers over large private document corpora.
+An end-to-end, database-driven platform connecting farmers, dealers, tourists, experts, and consumers in one ecosystem.
 
 | Aspect | Details |
 | :--- | :--- |
-| **Stack** | Python · LangChain · pgvector · FastAPI · React |
-| **Scale** | 5M+ document chunks indexed |
-| **Performance** | Hybrid search with < 200ms retrieval latency |
-| **Security** | Tenant-scoped indexes, PII redaction, access controls |
-| **Impact** | Improved answer relevance by 35% over keyword baseline |
-| **Repository** | [View Code →](https://github.com/nazmul1005/rag-engine) |
+| **Stack** | PHP 8 · MySQL 8 · PDO · Docker · Docker Compose · Vanilla JS · Custom CSS |
+| **Scale** | 30 relational DB tables · 8 role-based dashboards |
+| **Security** | CSRF-protected POST forms, PDO prepared statements, hashed passwords, token-based recovery, atomic transactions |
+| **Features** | D2C marketplace with 5% commission engine, crop encyclopedia, disease detection, agri-tourism, live consultations |
+| **Impact** | Unified revenue engine across orders, resales, tours, food & consultations |
+| **Repository** | [View Code →](https://github.com/Nazmul1005/Krishi-Disha) |
 
-Built a hybrid dense + sparse retrieval pipeline with re-ranking, streaming responses, and inline source citations. Optimized chunking and embedding strategies for domain-specific corpora.
+Designed a normalized 30-table schema with strict RBAC, a content proposal & admin approval workflow, and a dealer resale loop. Hardened from demo to a transaction-consistent system with CSRF protection, email verification, and reproducible Docker-based setup.
+
+</details>
+
+<details>
+<summary><b>⚽ UEFA Champions League Winner Prediction System</b></summary>
+
+<br/>
+
+A machine learning system that forecasts UCL winners from group-stage performance statistics.
+
+| Aspect | Details |
+| :--- | :--- |
+| **Stack** | Python · Jupyter · scikit-learn · XGBoost · Pandas · NumPy · Matplotlib · Seaborn |
+| **Approach** | Weighted ensemble of Random Forest, KNN & XGBoost with softmax over 22 engineered features |
+| **Features** | Win/loss ratios, goals per match, defensive strength, dominance & clean-sheet scores |
+| **Output** | Ranked win probabilities for the top 16 teams |
+| **Repository** | [View Code →](https://github.com/Nazmul1005/UEFA-Champions-League-UCL-Winner-Prediction-System) |
+
+Engineered 22 features from historical group-stage data and combined three models into a weighted ensemble, producing ranked win probabilities and validated against the 2021–2024 seasons.
+
+</details>
+
+<details>
+<summary><b>📚 More Projects</b></summary>
+
+<br/>
+
+| Project | Description | Tech |
+| :--- | :--- | :--- |
+| [Academia](https://github.com/Nazmul1005/Academia) | Comprehensive web-based Learning Management System | Java · JSP · MySQL |
+| [Aurora-LMS](https://github.com/Nazmul1005/Aurora-LMS) | A modern Learning Management System | JavaScript |
+| [Maze_Generator](https://github.com/Nazmul1005/Maze_Generator) | Maze generation & solving | C++ |
+| [Sudoku Game](https://github.com/Nazmul1005/Suduku_Game) | Interactive Sudoku game | HTML · JS |
+| [Tic-Tac-Toe](https://github.com/Nazmul1005/Tic-toc-toe) | Classic Tic-Tac-Toe | JavaScript |
 
 </details>
 
@@ -167,30 +201,32 @@ Built a hybrid dense + sparse retrieval pipeline with re-ranking, streaming resp
 <!-- ====================== EXPERIENCE ====================== -->
 ## 💼 Experience
 
-### Software Engineer · **Company Name**
-`Jan 2023 — Present`
+<!-- TODO: Replace with real internships/jobs when available -->
 
-Drove the design and delivery of scalable backend services and AI-powered features across the core product.
+### Full Stack & ML Project Developer · **Independent / Academic Projects**
+`2024 — Present`
 
-- Architected and shipped microservices handling high-volume production traffic with strong SLAs.
-- Led the integration of ML models into user-facing workflows, from prototype to production.
-- Championed engineering best practices — code review standards, CI/CD, and observability.
-- Mentored junior engineers and drove cross-team technical design discussions.
+Design and ship complete applications from database and backend to frontend and deployment.
 
-`Python` `TypeScript` `AWS` `Kubernetes` `PyTorch` `PostgreSQL`
+- Built a real-time virtual classroom (WebRTC + Socket.io) with AI attentiveness tracking and a Gemini-powered teaching assistant.
+- Developed full stack ML products including a cancer-risk simulator (93.67% accuracy) deployed to production on Vercel.
+- Engineered a 30-table, 8-role agricultural intelligence platform with secure payments and RBAC, containerized with Docker.
+- Practice clean architecture, secure coding (CSRF protection, prepared statements), and end-to-end delivery.
+
+`React` `Node.js` `FastAPI` `PHP` `MySQL` `XGBoost` `Socket.io` `Docker`
 
 <br/>
 
-### Software Engineering Intern · **Previous Company**
-`May 2022 — Dec 2022`
+### Open Source & Collaborative Work · **GitHub**
+`Ongoing`
 
-Contributed to full stack feature development and internal tooling for the platform team.
+Contribute to and maintain personal and collaborative repositories with an active commit history.
 
-- Built reusable frontend components and REST/GraphQL APIs used across multiple teams.
-- Automated deployment and testing pipelines, reducing release friction.
-- Delivered performance optimizations that improved page load times measurably.
+- 197+ contributions in the last year across 18+ repositories.
+- Ship features via pull requests with structured commits and code review workflows.
+- Explore new domains through Learning Management Systems, games, and prediction systems.
 
-`React` `Node.js` `Docker` `GraphQL` `CI/CD`
+`Java` `JavaScript` `Python` `C++` `Git`
 
 ---
 
@@ -199,12 +235,13 @@ Contributed to full stack feature development and internal tooling for the platf
 
 <div align="center">
 
+<!-- TODO: Add real hackathon wins / awards as you earn them -->
 | Recognition | Details |
 | :--- | :--- |
-| 🥇 **Hackathon Winner** | 1st place among 200+ teams for an AI-driven productivity tool |
-| ⭐ **Open Source Contributor** | Merged contributions to widely-used ML & web libraries |
-| 🎓 **Academic Excellence** | Consistent top-percentile academic standing |
-| 🚀 **Technical Speaker** | Presented on scalable ML systems at community meetups |
+| 🏅 **GitHub YOLO** | Earned the GitHub YOLO achievement |
+| ⭐ **Ultimate Classroom** | Real-time AI classroom project earning community stars |
+| 🚀 **93.67% ML Accuracy** | Cancer Risk Simulator — production ML model with 0.94 ROC-AUC |
+| 🔥 **197+ Contributions** | Active open-source contribution streak over the last year |
 
 </div>
 
@@ -212,6 +249,8 @@ Contributed to full stack feature development and internal tooling for the platf
 
 <!-- ====================== CERTIFICATIONS ====================== -->
 ## 📜 Certifications
+
+<!-- TODO: These are placeholder certifications — replace with your real ones or delete this section -->
 
 <div align="center">
 
@@ -239,6 +278,8 @@ Contributed to full stack feature development and internal tooling for the platf
 
 <!-- ====================== CODING PROFILES ====================== -->
 ## 👨‍💻 Coding Profiles
+
+<!-- TODO: Verify these profile URLs exist / update usernames to match your real handles -->
 
 <div align="center">
 
@@ -311,17 +352,17 @@ Contributed to full stack feature development and internal tooling for the platf
 
 ```yaml
 learning:
-  - Advanced distributed systems design
-  - LLM fine-tuning & agentic architectures
+  - Advanced full stack architecture & system design
+  - Deeper ML — model tuning, evaluation & deployment
 building:
-  - Scalable AI inference infrastructure
-  - Developer-first open source tooling
+  - Real-time, AI-integrated web applications
+  - Full stack ML products from data to UI
 exploring:
-  - Rust for high-performance backends
-  - Edge computing & real-time ML
+  - LLM integration & applied computer vision
+  - Scalable backend & DevOps with Docker
 open_to:
-  - Software Engineering roles
-  - AI/ML Engineering roles
+  - Software Engineering roles & internships
+  - AI/ML Engineering opportunities
   - Open source collaboration
 ```
 
@@ -360,4 +401,3 @@ open_to:
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8a2be2,50:4b0082,100:1a0033&height=150&section=footer" alt="footer banner" />
 
 </div>
-

@@ -69,19 +69,6 @@
 
 ---
 
-<!-- ====================== GITHUB ANALYTICS ====================== -->
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nazmul1005&show_icons=true&count_private=true&hide_border=true&title_color=8a2be2&icon_color=6a0dad&text_color=e0b3ff&bg_color=1a0033" alt="github stats" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=Nazmul1005&hide_border=true&background=1a0033&ring=8a2be2&fire=6a0dad&currStreakLabel=e0b3ff&sideLabels=e0b3ff&dates=b399d4&currStreakNum=e0b3ff&sideNums=e0b3ff" alt="streak stats" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmul1005&layout=compact&hide_border=true&title_color=8a2be2&text_color=e0b3ff&bg_color=1a0033&langs_count=8" alt="top languages" />
-
-</div>
-
----
 
 <!-- ====================== CONTRIBUTION ACTIVITY ====================== -->
 ## 📈 Contribution Activity

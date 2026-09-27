@@ -68,20 +68,6 @@
 </div>
 
 ---
-
-
-<!-- ====================== CONTRIBUTION ACTIVITY ====================== -->
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nazmul1005&bg_color=1a0033&color=e0b3ff&line=8a2be2&point=6a0dad&area=true&hide_border=true" alt="activity graph" />
-
-</div>
-
----
-
-<!-- ====================== CONTRIBUTION SNAKE ====================== -->
 ## 🐍 Contribution Snake
 
 <div align="center">

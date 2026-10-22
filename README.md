@@ -17,7 +17,7 @@
 <br/><br/>
 
 <!-- Social Buttons -->
-<a href="https://nazmul1005.github.io/Nazmul_islam/">
+<a href="https://nazmul1005.github.io/Portfolio/">
   <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a0033" alt="portfolio" />
 </a>
 <a href="https://www.linkedin.com/in/nazmul-islam-n05/">

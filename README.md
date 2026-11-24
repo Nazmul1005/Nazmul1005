@@ -80,6 +80,16 @@
 
 </div>
 
+## 🏎️ F1 Contribution Racer
+
+A red Formula 1 car races across my GitHub contribution calendar.
+
+<div align="center">
+<a href="https://github.com/Nazmul1005/github-f1-contribution-racer"><img width="100%" src="https://raw.githubusercontent.com/Nazmul1005/github-f1-contribution-racer/output/f1-race.gif" alt="F1 car racing across my GitHub contribution graph" /></a>
+<br/>
+<a href="https://github.com/Nazmul1005/github-f1-contribution-racer">View project source</a>
+</div>
+
 ---
 
 <!-- ====================== FOOTER ====================== -->
